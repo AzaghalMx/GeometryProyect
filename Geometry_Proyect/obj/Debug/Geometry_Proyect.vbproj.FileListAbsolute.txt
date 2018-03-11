@@ -1,1 +1,10 @@
 C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\bin\Debug\Geometry_Proyect.exe.config
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\bin\Debug\Geometry_Proyect.exe
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\bin\Debug\Geometry_Proyect.pdb
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\bin\Debug\Geometry_Proyect.xml
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.Form1.resources
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.Resources.resources
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.vbproj.GenerateResource.Cache
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.exe
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.xml
+C:\Users\Dell\MEGA\ESCOM\ESCOM\Octavo\Computational Geometry\proyecto\Proyecto\Geometry_Proyect\Geometry_Proyect\obj\Debug\Geometry_Proyect.pdb
